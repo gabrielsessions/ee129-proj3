@@ -1,4 +1,4 @@
-# EE 129 Project 3: An MQTT Broker
+# EE 129 Project 3: An MQTT-like Broker
 ## How to run the Broker
 1. Download [Node.js](https://nodejs.dev/en/) if you don't already have it installed. You can check by running `node --version`. The project was designed to run on Node v20.
 2. Clone the repository to your computer (or download all of the files as a zip)
